@@ -1,0 +1,12 @@
+.SelfServiceHeaderContainer{
+    border: 1px gray solid;
+    padding: 0.2vw;
+    margin: 0.2vw;
+}
+.BreadCrumbs{
+    font-size: calc(0.8vw + 3px);
+    color: gray;
+}
+.ActiveCategory{
+    font-size: calc(1vw + 5px);
+}

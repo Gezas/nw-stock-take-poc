@@ -1,0 +1,12 @@
+URL naming conventions
+
+Wanted to return items / records / categories with a single endpoint! What a silly idea!
+
+/item/<id>
+/item/<page>
+/item/all
+ - 
+
+/category/<id>
+/category/<page>
+/category/all

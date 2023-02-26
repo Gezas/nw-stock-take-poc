@@ -1,0 +1,9 @@
+.navbar{
+    padding: 1vw;
+    font-size: calc(8px + 1vw);
+    background-color: rgba(20, 20, 20,1) ;
+    color: whitesmoke;
+    font-weight: bold;
+    display: flex;
+    justify-content: space-between;
+}
